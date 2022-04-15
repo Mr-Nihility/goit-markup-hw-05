@@ -177,10 +177,7 @@ img {
   color: var(--accent-color);
 }
 
-/* .contact-item:hover .icon,
-.contact-item:focus .icon {
-   color: var(--accent-color);
-} */
+
 
 .contacts .items:not(:last-child) {
   margin-right: 50px;
@@ -335,6 +332,7 @@ img {
     0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 0px 0px 4px 4px;
 }
+/* ================================================================================== */
 
 /* socialmedia */
 
