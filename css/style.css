@@ -211,8 +211,6 @@ img {
   color: var(--accent-color);
 }
 
-
-
 .contacts .items:not(:last-child) {
   margin-right: 50px;
 }
@@ -736,8 +734,9 @@ img {
   width: 528px;
   height: 581px;
   background-color: var(--primary-bg-t-color);
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
-border-radius: 4px;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
 }
 .close-btn {
   position: absolute;
@@ -757,9 +756,7 @@ border-radius: 4px;
   fill: currentColor;
 }
 
-.close-btn:hover .close-btn, 
+.close-btn:hover .close-btn,
 .close-btn:focus .close-btn {
   color: var(--accent-color);
 }
-
-
